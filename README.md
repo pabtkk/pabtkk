@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Meu nome é **Pablo** e atualmente sou estudante de Engenharia de Software, cursando o quarto período. Estou criando este perfil para aprender, compartilhar e evoluir minhas habilidades na área de tecnologia.
+Meu nome é **Pablo** e atualmente sou estudante de Engenharia de Software, cursando o sexto período. Estou criando este perfil para aprender, compartilhar e evoluir minhas habilidades na área de tecnologia.
 
 ## Sobre mim
 
