@@ -4,7 +4,7 @@ Meu nome é **Pablo** e atualmente sou estudante de Engenharia de Software, curs
 
 ## Sobre mim
 
-- 🎓 **Estudante de Engenharia de Software** (4º período)
+- 🎓 **Estudante de Engenharia de Software** (6º período)
 - 👾 Ainda estou aprendendo, e este perfil faz parte da minha jornada para melhorar meus conhecimentos e habilidades em programação.
 - 🌱 Buscando conhecimento, projetos e novas oportunidades de aprendizado.
 
